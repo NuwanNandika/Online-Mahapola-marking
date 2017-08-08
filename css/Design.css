@@ -1,0 +1,205 @@
+body{
+    margin-left: 0 ;
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0;
+    background-size: cover;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+#header{
+    background-color: #262626;
+}
+#nbar{
+    background-color: #262626;
+    padding-top: 2em;
+    padding-bottom: 0.5em;
+}
+#nbar_row{
+    padding-top: 0em;
+}
+#nav-bar{
+    background-color: #669d81;
+
+}
+#index_body{
+    background-color: #262626;
+}
+#information{
+    background-color: #8a6d3b;
+    opacity: 0.8;
+    border-radius: 5em;
+}
+.navbar{
+    font-size: 1em;
+}
+#footer{
+    background-color:#28292c;
+}
+#footerMenu{
+    color:white;
+    font-size:1.1em;}
+#end{
+    color:white;
+    font-family:Corbel;
+}
+#footer_name{
+    font-size:2.5em;
+    color:white;
+    font-family: Exo;
+}
+#slide{
+    background-color: #262626;
+}
+
+
+.carousel-caption h1{
+    background-color:#333;
+    color:#fff;
+
+    padding-top:0.5em;
+    padding-bottom:0.5em;
+    padding-left:1.5em;
+    padding-right:1.5em;
+    opacity:0.9;
+    display:inline-block;
+    font-family:Maiandra GD;
+
+
+}
+
+.carousel-caption p{
+    background-color:#333;
+    color:#fff;
+
+    padding-top:0.5em;
+    padding-bottom:0.5em;
+    padding-left:1.5em;
+    padding-right:1.5em;
+    opacity:0.7;
+    display:inline-block;
+    font-family:Maiandra GD;
+
+
+}
+
+#topics{
+    padding-top: 2em;
+}
+
+#topic_1{
+    font-size: 2.5em;
+
+    font-family: 'Artifika', serif;
+    color: #fff;
+}
+
+#topic_2{
+    font-size: 2em;
+    font-family: 'Artifika', serif;
+    color: #fff;
+}
+#topic_3{
+    font-size: 1.5em;
+    font-family: 'Artifika', serif;
+    color: #fff;
+}
+
+.jumbo_1{
+
+
+}
+
+#login_form{
+    border: 1em black solid;
+}
+#login{
+    background-color: #398439;
+
+}
+#login_a{
+    font-size: 2em;
+    color: #fff;
+    padding-top:10em;
+}
+#btn{
+    padding-top: 1em;
+
+    padding-bottom: 2em;
+}
+#reg_form{
+    border: 1.5em #222 solid;
+    background-color: #b9def0;
+    
+}
+#Registration_Form{
+    color: #fff;
+    font-weight: bolder;
+}
+#add{
+    font-family: Arial Rounded M...;
+    font-size: 2em;
+    color: #d58512;
+}
+#login_body{
+    background: #843534;
+    opacity: 0.9;
+}
+#register_body{
+    
+    
+}
+#register{
+     background-color: #262626;
+    background-image: url('../images/006.jpg');
+    background-size: cover;
+    opacity: 0.5;
+   
+    
+}
+#reg_container{
+    background-color: #262626;
+}
+.lable_login{
+    color: #fff;
+    font-size: 1.5em;
+}
+#disdription{
+    color: #9acfea;
+    font-size: 1.5em;
+    font-family: 'Josefin Sans', sans-serif;
+}
+#contact_body{
+    background-color: #262626;
+}
+.lable{
+    color: #fff;
+    font-family: Vani;
+}
+#body_top{
+    background-color: #b9def0;
+    border-radius: 4em;
+}
+#photos{
+    background-color: #262626;
+}
+.image{
+    border: 1em #262626 solid ;
+}
+.image:hover{
+    border: 1em #b9def0 ridge;
+    width: 33%;
+    opacity: 0.7;
+    border-radius:0.3em;
+    outline-style: dotted;
+    border-radius: 3em;
+}
+.about_photo{
+    background-color: #b9def0;
+    font-family: Leelawadee UI;
+    font-size: 1em;
+    border: 0.3em yellowgreen solid;
+    border-top: none; 
+    border-radius: 3em;
+}
+
